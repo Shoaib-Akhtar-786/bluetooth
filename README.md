@@ -1,2 +1,3 @@
 # bluetooth
-code to get bluetooth devices and check for all avalible device near you
+code to get bluetooth devices and check for all avalible device near you....
+all you have is just to copy tis code in your java class to get  and layout to get list view and a button for devices 
